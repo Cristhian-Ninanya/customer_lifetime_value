@@ -25,22 +25,6 @@ For this project we will use a dataset based on customers’ relationships with 
 
 ![alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/dataframe.png?raw=true)
 
-## Distribution of acquisition cost by the customer:
-
-![alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/distr_acq_cost.png?raw=true)
-
-**OBS:**
-* The **"Referral"** and **"Email Marketing"** channels have in total the highest number of customers (around 400) with acquisition costs ranging between 8 and 9.
-* The **"paid advertising"** has 194 customer with the highest acquisition cost (30 appoximately).
-* The **" email marketing"** has 214 customer with the lowest acquisition cost (5 appoximately).
-
-## Revenue cost by the customer:
-
-![alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/distr_revenue.png?raw=true)
-
-**OBS:**
-* Apparently all channels contribute the revenue equally.
-
 ## Compare the cost of acquisition across different channels
 
 ![alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/cust_acq_cost_channel.png?raw=true)
