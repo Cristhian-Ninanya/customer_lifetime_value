@@ -76,7 +76,7 @@ $$
 
 ## CLV distribution of "social media" and "referral"
 
-[alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/clv_distr_chann.png?raw=true)
+[alt text](https://github.com/Cristhian-Ninanya/customer_lifetime_value/blob/main/Images/clv_distr_chann.jpg?raw=true)
 
 **OBS:**
 * The Customer Lifetime Value from the "Social Media" channel is slightly better than the "referral" channel.
