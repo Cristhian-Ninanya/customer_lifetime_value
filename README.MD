@@ -81,7 +81,7 @@ $$
 **OBS:**
 * The Customer Lifetime Value from the "Social Media" channel is slightly better than the "referral" channel.
 
-## **Observations:**
+## Final Observations:
 
 1. **Reduce investment in "paid advertising"**: Since it is the most expensive channel and has the lowest Return on Investment (ROI), it may be beneficial to reconsider the allocation of resources to this channel. By reducing investment in paid advertising, you can potentially allocate those resources to other channels with higher effectiveness and ROI.
 
